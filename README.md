@@ -14,7 +14,7 @@ Building an Unsupervised Machine Learning Model Using Hierarchical Clustering
 <b>1. Cluster 0 (Dark Purple)</b> may represent high-value customers with high spending in both categories.
 <br>
 <b>2. Cluster 1 (Teal)</b> may include customers who prioritize Fresh items over Grocery.
-<br>3. Cluster 2 (Yellow)</b> could indicate budget-conscious customers or those who purchase smaller quantities.
+<b>3. Cluster 2 (Yellow)</b> could indicate budget-conscious customers or those who purchase smaller quantities.
 <br><br>
 <b>Actions</b>
 <br>

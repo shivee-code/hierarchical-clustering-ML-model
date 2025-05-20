@@ -11,11 +11,11 @@ Building an Unsupervised Machine Learning Model Using Hierarchical Clustering
 <br><br>
 <b>Customer segmentation Insight:</b>
 <br>
-<b>1. Cluster 0 (Dark Purple)<b/> may represent high-value customers with high spending in both categories.
+<b>1. Cluster 0 (Dark Purple)</b> may represent high-value customers with high spending in both categories.
 <br>
 <b>2. Cluster 1 (Teal)</b> may include customers who prioritize Fresh items over Grocery.
 <br>3. Cluster 2 (Yellow)</b> could indicate budget-conscious customers or those who purchase smaller quantities.
 <br><br>
-<b<Actions</b>
+<b>Actions</b>
 <br>
 The company can take targeted action for each customer segment. For high-spending customers (Dark Purple), focus on loyalty programs, premium product recommendations, and personalized offers. For those with moderate Fresh but low Grocery spending (Teal), emphasize Fresh product deals, cross-cell complementary Grocery items, and provide recipe content. for budget-conscious customers (Yellow, offer discounts, value deals, and staple item promotions. Overall, tailored marketing campaigns, optimized product stocking, and segment-specific incentives can enhance customer satisfaction and increase revenue by meeting the unique needs of each group.

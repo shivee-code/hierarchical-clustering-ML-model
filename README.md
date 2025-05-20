@@ -1,2 +1,2 @@
 # hierarchical-clustering-ML-model
-Building a Unsupervised Machine Learning model using Hierarchical Clustering
+Building an Unsupervised Machine Learning Model Using Hierarchical Clustering
